@@ -1,0 +1,43 @@
+ 1. Leia os valores de 'a' e 'b';
+    2. O resultado será a subtração de 'a' menos 'b';
+    3. Mostre o resultado desta subtração.
+
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] - [b];
+    3. Mostre o [resultado].
+
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] - [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
+    
+ 1. Leia os valores de 'a' e 'b';
+    2. O resultado será a multiplicação de 'a' mais 'b';
+    3. Mostre o resultado desta multiplicação.
+
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] x [b];
+    3. Mostre o [resultado].
+
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] x [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
+
+    1. Leia os valores de 'a' e 'b';
+    2. O resultado será a divisão de 'a' mais 'b';
+    3. Mostre o resultado desta divisão.
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] : [b];
+    3. Mostre o [resultado].
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] : [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
+ 
